@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CoreUI Free React Admin Template - Built for AI-Assisted Development [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?text=CoreUI%20-%20Free%React%204%20Admin%20Template%20&url=https://coreui.io&hashtags=bootstrap,admin,template,dashboard,panel,free,angular,react,vue)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
@@ -268,3 +269,6 @@ CoreUI is an MIT-licensed open source project and is completely free to use. How
 copyright 2026 creativeLabs Łukasz Holeczek.   
 
 Code released under [the MIT license](https://github.com/coreui/coreui-free-react-admin-template/blob/main/LICENSE).
+=======
+# TheMasterPanel
+>>>>>>> e9d9332b2e39c90c1ebc1ee680755172949705bf
